@@ -16,6 +16,7 @@ public class Iteration {
             }
             System.out.println("Friday!!!"); //only done once the first loop hits 5
             // for each loop will be done in the arrays file later on
+            //
         }
     }
 }
