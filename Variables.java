@@ -14,7 +14,7 @@ public class Variables {
         float decimal = 4.3f; //stores a decimal
 
         char var1 = 'A'; //stores one character
-        System.out.println(percent + small + smaller + large + decimal + var1); // printing all to avoid warning from ide
+        System.out.println(percent + small + smaller + large + decimal + var1); // printing all to avoid warning from IDE
 
     }
 
