@@ -14,7 +14,7 @@ public class Iteration {
             for (int y = 1; y <= 4; y++) { // this is the concept of a nested loop
                 System.out.println("Day" + y);
             }
-            System.out.println("Friday!!!");
+            System.out.println("Friday!!!"); //only done once the first loop hits 5
             // for each loop will be done in the arrays file later on
         }
     }
