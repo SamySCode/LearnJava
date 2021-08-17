@@ -1,3 +1,4 @@
+package SelfTaught;
 import java.util.Scanner;
 
 public class IfElse {
