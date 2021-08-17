@@ -1,3 +1,5 @@
+package SelfTaught;
+
 class Calculator{ // creating a object
     int num1; // assigning object with variables
     int num2; // assigning object with variables
