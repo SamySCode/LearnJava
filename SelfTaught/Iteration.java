@@ -1,4 +1,4 @@
-package SelfTaught;
+package LearnJava.SelfTaught;
 public class Iteration {
     // while, do while, for, for-each loop
     public static void main(String[] args) {

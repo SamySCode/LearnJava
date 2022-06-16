@@ -1,4 +1,4 @@
-package SelfTaught;
+package LearnJava.SelfTaught;
 
 class Calculator{ // creating a object
     int num1; // assigning object with variables
