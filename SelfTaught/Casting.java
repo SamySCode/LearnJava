@@ -1,4 +1,4 @@
-package LearnJava.SelfTaught;
+package SelfTaught;
 
 public class Casting {
     public static void main(String[] args) {

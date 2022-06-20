@@ -1,4 +1,4 @@
-package LearnJava.SelfTaught;
+package SelfTaught;
 public class Conversion {
     public static void main(String[] args) {
         double Pounds = 12;// these are doubles, they hold more precise numbers that have decimal points

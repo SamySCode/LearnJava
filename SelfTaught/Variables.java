@@ -1,4 +1,4 @@
-package LearnJava.SelfTaught;
+package SelfTaught;
 public class Variables {
     public static void main(String[] args) {
         //String and Int are made and printed
