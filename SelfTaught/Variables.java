@@ -1,4 +1,7 @@
 package SelfTaught;
+
+import java.util.Arrays;
+
 public class Variables {
     public static void main(String[] args) {
         //String and Int are made and printed
@@ -15,6 +18,9 @@ public class Variables {
         float decimal = 4.3f; //stores a decimal
 
         char var1 = 'A'; //stores one character
+        int[] arr = new int[] { 1, 2, 3, 4 }; // creating and filling array with ints
+
+        System.out.println(Arrays.toString(arr)); //printing array positions
         System.out.println(percent + small + smaller + large + decimal + var1); // printing all to avoid warning from IDE
 
     }
