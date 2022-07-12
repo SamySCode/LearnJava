@@ -42,7 +42,7 @@ public class IfElse {
         if(topScore > 100){
             System.out.println("You got the Top Score"); //comparing to topScore to 100 and printing phrase
         }
-        else if(topScore > secondScore && topScore < 100){
+        else if((topScore > secondScore) && (topScore < 100)){
             System.out.println("You got higher than 2nd place!... but less than first");// multiple clauses for if you beat 2nd but get less than 1st
         }
     }
