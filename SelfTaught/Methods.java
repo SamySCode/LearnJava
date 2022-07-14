@@ -4,6 +4,7 @@ import java.lang.Math;
 
 public class Methods {
     public static void main(String[] args) {
+        //KPH TO MPH converter
         double kilometersPerHour = 1.25; //Defining value to convert
         printConversion(kilometersPerHour);
     }
