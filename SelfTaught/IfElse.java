@@ -20,7 +20,7 @@ public class IfElse {
             case 3: // if user inputs 3 this will happen
                 System.out.println("Wrong One, Try Again");
                 break;
-            default:
+            default: //works like an else statement
                 System.out.println("Incorrect Input, should be 1, 2 or 3");
                 break;
         }
